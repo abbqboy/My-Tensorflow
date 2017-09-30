@@ -14,8 +14,8 @@
 安装过程中，Anaconda会提示是否添加到环境变量，选择“是”；（其实不用太看，基本上一直next到底就好了）
 
 * 第三步：检测python是否安装，环境配置是否成功
-cmd 》》》python 
-验证是否安装成功：
+
+cmd>>python 验证是否安装成功：
 
 * 第四步：TensorFlow安装
 
@@ -33,23 +33,25 @@ cd到这个地址：cd Program Files\Anaconda3\Scripts
 
 在cmd输入python
 
-import tensorflow as tf
+>>import tensorflow as tf
 
-hello = tf.constant('Hello, TensorFlow!')
+>>hello = tf.constant('Hello, TensorFlow!')
 
-sess = tf.Session()
+>>sess = tf.Session()
 
-print(sess.run(hello))
+>>print(sess.run(hello))
 
 输出：Hello, TensorFlow!
 
-输入：a = tf.constant(10)
+输入：
 
-b = tf.constant(32)
+>>a = tf.constant(10)
 
-print(sess.run(a + b))
+>>b = tf.constant(32)
+
+>>print(sess.run(a + b))
 
 输出：42(说明TensorFlow安装完成）
 
 
-第三坑：cmd进行Tensflow安装的时候，以管理员身份运行，进行安装。
+
