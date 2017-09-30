@@ -63,5 +63,5 @@ cd到这个地址：cd Program Files\Anaconda3\Scripts
 
 输出：42(说明TensorFlow安装完成）
 
-
+本人用的IDE是Anaconda自带的Spyer
 
