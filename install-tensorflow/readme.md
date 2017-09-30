@@ -28,10 +28,6 @@ cd到这个地址：cd Program Files\Anaconda3\Scripts
 补充信息：
 
 一键安装（CPU版）：pip install --upgrade --ignore-installed tensorflow
-相关知识插入：TensorFlow 有两个版本：CPU 版本和 GPU 版本。GPU 版本需要 CUDA 和 cuDNN 的支持，CPU 版本不需要。
-
-如果你要安装 GPU 版本，请先确认你的显卡支持 CUDA。
-
 
 1.确认版本：pip版本 >= 8.1。用 pip -V 查看当前 pip 版本，用 python -m pip install -U pip 升级pip 
 
