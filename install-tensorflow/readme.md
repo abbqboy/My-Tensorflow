@@ -21,13 +21,23 @@ cmd 》》》python
 以管理员身份运行cmd 
 cd到这个地址：
 补充信息： 
-一键安装（CPU版）：
+一键安装（CPU版）：pip install --upgrade --ignore-installed tensorflow
 
-（GPU版）
+（GPU版）：pip install --upgrade --ignore-installed tensorflow-gpu
 
 * 第五步：测试
 
-在cmd输入
+在cmd输入python
+
+import tensorflow as tf
+
+hello = tf.constant('Hello, TensorFlow!')
+
+sess = tf.Session()
+
+print(sess.run(hello))
+
+输出：Hello, TensorFlow!(说明TensorFlow安装完成）
 
 
 第三坑：cmd进行Tensflow安装的时候，以管理员身份运行，进行安装。
