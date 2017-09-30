@@ -45,8 +45,6 @@ sess = tf.Session()
 print(sess.run(hello))
 ```
 输出：Hello, TensorFlow!
-
-输入：
 ``` python
 a = tf.constant(10)
 b = tf.constant(32)
