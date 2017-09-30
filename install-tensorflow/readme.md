@@ -18,9 +18,13 @@ cmd 》》》python
 验证是否安装成功：
 
 * 第四步：TensorFlow安装
+
 以管理员身份运行cmd 
-cd到这个地址：
-补充信息： 
+
+cd到这个地址：cd Program Files\Anaconda3\Scripts 
+
+补充信息：
+
 一键安装（CPU版）：pip install --upgrade --ignore-installed tensorflow
 
 （GPU版）：pip install --upgrade --ignore-installed tensorflow-gpu
@@ -37,7 +41,15 @@ sess = tf.Session()
 
 print(sess.run(hello))
 
-输出：Hello, TensorFlow!(说明TensorFlow安装完成）
+输出：Hello, TensorFlow!
+
+输入：a = tf.constant(10)
+
+b = tf.constant(32)
+
+print(sess.run(a + b))
+
+输出：42(说明TensorFlow安装完成）
 
 
 第三坑：cmd进行Tensflow安装的时候，以管理员身份运行，进行安装。
