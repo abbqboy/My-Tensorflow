@@ -38,25 +38,20 @@ cd到这个地址：cd Program Files\Anaconda3\Scripts
 * 第五步：测试
 
 在cmd输入python
-
->>import tensorflow as tf
-
->>hello = tf.constant('Hello, TensorFlow!')
-
->>sess = tf.Session()
-
->>print(sess.run(hello))
-
+``` python
+import tensorflow as tf
+hello = tf.constant('Hello, TensorFlow!')
+sess = tf.Session()
+print(sess.run(hello))
+```
 输出：Hello, TensorFlow!
 
 输入：
-
->>a = tf.constant(10)
-
->>b = tf.constant(32)
-
->>print(sess.run(a + b))
-
+``` python
+a = tf.constant(10)
+b = tf.constant(32)
+print(sess.run(a + b))
+```
 输出：42(说明TensorFlow安装完成）
 
 本人用的IDE是Anaconda自带的Spyder
