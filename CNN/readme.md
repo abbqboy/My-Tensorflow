@@ -14,5 +14,7 @@
 
 就以上5点对CNN做一个基本的介绍
 
+![cnn](https://github.com/abbqboy/Sticker/blob/master/photo/cnn.png?raw=true)
+
 
 
