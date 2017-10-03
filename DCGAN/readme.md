@@ -19,9 +19,11 @@ GAN是14年首次提出，其结构主要包括了两个部分
 
 其自诞生以来发展的是相当火热，本文将以DCGAN为例进行实现。
 
+![hei](https://github.com/abbqboy/Sticker/blob/master/photo/DAGAN/1.png?raw=true)
 
+![ssss](https://github.com/abbqboy/Sticker/blob/master/photo/DAGAN/12.png?raw=true)
 
-
+![hssei](https://github.com/abbqboy/Sticker/blob/master/photo/DAGAN/38.png?raw=true)
 
 
 
