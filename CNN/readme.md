@@ -24,6 +24,8 @@
 
 学习率决定了参数每次更新的幅度
 
+![xuexi](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1507182480251&di=c7858a239b906038e135380595e6a080&imgtype=0&src=http%3A%2F%2Fwww.aibosha.com%2Fdownloads%2Fimages%2F201701%2F1485250087881_5.png)
+
 * 2.过拟合
 
 
