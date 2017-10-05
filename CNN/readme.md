@@ -16,5 +16,11 @@
 
 ![cnn](https://github.com/abbqboy/Sticker/blob/master/photo/cnn.png?raw=true)
 
+## 神经网络的优化
+
+* 1.学习率
+
+* 2.过拟合
+
 
 
