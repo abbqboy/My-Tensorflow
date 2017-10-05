@@ -30,6 +30,10 @@
 
 模型不是尽量模拟训练数据的行为，而是希望通过训练出来的模型对未知数据给出判断
 
+* 滑动平均模型
+
+在Tensorflow中提供了tf.train.ExonentialMovingAverage来实现滑动平均模型
+
 
 
 
