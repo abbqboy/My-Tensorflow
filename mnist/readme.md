@@ -14,7 +14,7 @@ MNIST是NIST数据集的一个子集。
 
 包含了60000张图片作为训练数据，10000张图片作为测试数据。
 
-下载地址（yann.lecun.com/exdb/mnist）
+[下载地址](yann.lecun.com/exdb/mnist)
 
 
 
