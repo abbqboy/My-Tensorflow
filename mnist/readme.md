@@ -16,7 +16,7 @@ MNIST是NIST数据集的一个子集。
 
 [下载地址](http://yann.lecun.com/exdb/mnist/)  Yann LeCun教授对他的数据集做出了详细的介绍
 
-![yann](https://static.leiphone.com/uploads/new/article/740_740/201704/58f6dbab9506f.jpg?imageMogr2/format/jpg/quality/90)
+![yannn](https://static.leiphone.com/uploads/new/article/740_740/201704/58f6dbab9506f.jpg?imageMogr2/format/jpg/quality/90)
 
 
 
